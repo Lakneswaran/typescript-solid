@@ -1,5 +1,19 @@
 {
+  "name": "my-project",
+  "source": "0.S/index.html",
+  "scripts": {
+
+      "start": "npm run build && parcel --parallel serve",
+      "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "cd dist && live-server"
+    
+  },
   "devDependencies": {
+    "live-server": "^1.2.1",
     "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "urix": "^0.1.0"
   }
 }
