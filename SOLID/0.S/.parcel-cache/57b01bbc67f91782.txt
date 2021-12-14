@@ -1,0 +1,9 @@
+8
+72E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\SOLID\0.S\carmusic.wav132838788068950144 0
+67E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\SOLID\0.S\car.png132838788066134171 0
+69E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\SOLID\0.S\readme.md132838788068950144 0
+70E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\SOLID\0.S\index.html132838788068950144 0
+77E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\SOLID\0.S\package-lock.json132839441640950000 0
+66E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\SOLID\0.S\old.js132838788068950144 0
+72E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\SOLID\0.S\package.json132839441686170002 0
+66E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\SOLID\0.S\old.ts132838788068950144 0
