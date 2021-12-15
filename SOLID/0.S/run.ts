@@ -18,7 +18,7 @@ let car = new Car(100);
 
 musicToggleElement.addEventListener('click', () => {
     if(car._musicPlayer.musicLevel === 0) {
-        car._musicPlayer. turnMusicOn();
+        car._musicPlayer.turnMusicOn();
         musicSliderElement.value = car._musicPlayer.musicLevel.toString();
         musicToggleElement.innerText = 'Turn music off';
         return;
