@@ -2,11 +2,9 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.NoDiscount = void 0;
 var NoDiscount = /** @class */ (function () {
-    function NoDiscount() {
-    }
-    NoDiscount.prototype.constuctor = function (value) {
+    function NoDiscount(value) {
         this._value = value;
-    };
+    }
     NoDiscount.prototype.apply = function (price) {
         return price;
     };

@@ -1,17 +1,12 @@
 import { IDiscount } from './IDiscount';
 
-
 export class VariableDiscount implements IDiscount{
 
+    public _value: number;
 
-  
-
-
-        private _value: number;
-
-        constuctor(value : number){
-            this._value = value;
-        }
+    constructor(value : number){
+        this._value = value;
+    }
     
         apply(price : number) : number{
             return (price - (price * this._value / 100));

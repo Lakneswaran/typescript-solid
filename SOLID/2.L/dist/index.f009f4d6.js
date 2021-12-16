@@ -549,11 +549,9 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.FixedDiscount = void 0;
 var FixedDiscount1 = function() {
-    function FixedDiscount() {
-    }
-    FixedDiscount.prototype.constuctor = function(value) {
+    function FixedDiscount(value) {
         this._value = value;
-    };
+    }
     FixedDiscount.prototype.apply = function(price) {
         return Math.max(0, price - this._value);
     };
@@ -571,11 +569,9 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.NoDiscount = void 0;
 var NoDiscount1 = function() {
-    function NoDiscount() {
-    }
-    NoDiscount.prototype.constuctor = function(value) {
+    function NoDiscount(value) {
         this._value = value;
-    };
+    }
     NoDiscount.prototype.apply = function(price) {
         return price;
     };

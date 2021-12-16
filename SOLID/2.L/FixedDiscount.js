@@ -2,11 +2,9 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.FixedDiscount = void 0;
 var FixedDiscount = /** @class */ (function () {
-    function FixedDiscount() {
-    }
-    FixedDiscount.prototype.constuctor = function (value) {
+    function FixedDiscount(value) {
         this._value = value;
-    };
+    }
     FixedDiscount.prototype.apply = function (price) {
         return Math.max(0, price - this._value);
     };

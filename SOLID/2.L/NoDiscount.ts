@@ -3,9 +3,9 @@ import { IDiscount } from './IDiscount';
 
 export class NoDiscount implements IDiscount {
 
-    private _value: number;
+     public _value: number;
 
-    constuctor(value : number){
+    constructor(value : number){
         this._value = value;
     }
 

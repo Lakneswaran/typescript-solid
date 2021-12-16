@@ -58,9 +58,9 @@ var shoppingBasket = /** @class */ (function () {
     return shoppingBasket;
 }());
 var cart = new shoppingBasket();
-cart.addProduct(new Product('Chair', 25, new FixedDiscount_1.FixedDiscount()));
-cart.addProduct(new Product('Table', 50, new VariableDiscount_1.VariableDiscount()));
-cart.addProduct(new Product('Bed', 100, new NoDiscount_1.NoDiscount()));
+cart.addProduct(new Product('Chair', 25, new FixedDiscount_1.FixedDiscount(10)));
+cart.addProduct(new Product('Table', 50, new VariableDiscount_1.VariableDiscount(25)));
+cart.addProduct(new Product('Bed', 100, new NoDiscount_1.NoDiscount(0)));
 var tableElement = document.querySelector('#cart tbody');
 cart.products.forEach(function (product) {
     var tr = document.createElement('tr');

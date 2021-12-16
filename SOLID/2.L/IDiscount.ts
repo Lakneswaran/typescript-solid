@@ -1,4 +1,4 @@
-import { FixedDiscount } from "./FixedDiscount";
+
 
 export interface IDiscount{
 //This is called a Union, the discountType can only contain the following 2 values:

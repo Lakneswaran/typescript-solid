@@ -2,9 +2,9 @@
 
 export class FixedDiscount implements IDiscount {
 
-     private _value: number;
+     public _value: number;
 
-    constuctor(value : number){
+    constructor(value : number){
         this._value = value;
     }
 
