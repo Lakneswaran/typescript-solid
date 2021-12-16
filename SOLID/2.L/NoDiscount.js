@@ -7,7 +7,7 @@ var NoDiscount = /** @class */ (function () {
     NoDiscount.prototype.constuctor = function (value) {
         this._value = value;
     };
-    NoDiscount.prototype.aplly = function (price) {
+    NoDiscount.prototype.apply = function (price) {
         return price;
     };
     NoDiscount.prototype.showCalculation = function (price) {

@@ -1,15 +1,15 @@
 import { FixedDiscount } from './FixedDiscount';
 import { NoDiscount } from './NoDiscount';
-import { VariableDiscount } from './variableDiscount';
-import { Discounts } from './interface';
+import { VariableDiscount } from './VariableDiscount';
+import { IDiscount } from './IDiscount';
  
 
 class Product {
     private _name : string;
     private _price : number;
-    private _discount : Discounts;
+    private _discount : IDiscount;
 
-    constructor(name: string, price: number, discount: Discounts) {
+    constructor(name: string, price: number, discount: IDiscount) {
         this._name = name;
         this._price = price;
         this._discount = discount;
@@ -19,7 +19,7 @@ class Product {
         return this._name;
     }
 
-    get discount(): Discounts {
+    get discount(): IDiscount {
         return this._discount;
     }
 
@@ -52,9 +52,9 @@ class shoppingBasket {
 }
 
 let cart = new shoppingBasket();
-cart.addProduct(new Product('Chair', 25, new FixedDiscount(10)));
-//cart.addProduct(new Product('Chair', 25, new Discount("fixed", -10)));
-cart.addProduct(new Product('Table', 50, new VariableDiscount(25)));
+cart.addProduct(new Product('Chair', 25, new FixedDiscount( 10)));
+
+cart.addProduct(new Product('Table', 50, new VariableDiscount( 25)));
 cart.addProduct(new Product('Bed', 100, new NoDiscount()));
 
 const tableElement = document.querySelector('#cart tbody');

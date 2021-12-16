@@ -7,7 +7,7 @@ var VariableDiscount = /** @class */ (function () {
     VariableDiscount.prototype.constuctor = function (value) {
         this._value = value;
     };
-    VariableDiscount.prototype.aplly = function (price) {
+    VariableDiscount.prototype.apply = function (price) {
         return (price - (price * this._value / 100));
     };
     VariableDiscount.prototype.showCalculation = function (price) {

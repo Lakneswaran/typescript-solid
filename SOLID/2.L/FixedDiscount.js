@@ -7,7 +7,7 @@ var FixedDiscount = /** @class */ (function () {
     FixedDiscount.prototype.constuctor = function (value) {
         this._value = value;
     };
-    FixedDiscount.prototype.aplly = function (price) {
+    FixedDiscount.prototype.apply = function (price) {
         return Math.max(0, price - this._value);
     };
     FixedDiscount.prototype.showCalculation = function (price) {

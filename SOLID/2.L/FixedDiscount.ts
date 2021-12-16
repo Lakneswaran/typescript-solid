@@ -1,14 +1,14 @@
-import { Interface } from './Ineterface';
+ import { IDiscount } from './IDiscount';
 
-export class FixedDiscount implements Discounts {
+export class FixedDiscount implements IDiscount {
 
-    private _value: number;
+     private _value: number;
 
     constuctor(value : number){
         this._value = value;
     }
 
-    aplly(price : number) : number{
+    apply(price : number) : number{
         return Math.max(0, price - this._value);
     }
 

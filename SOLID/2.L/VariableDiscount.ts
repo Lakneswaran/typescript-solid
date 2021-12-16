@@ -1,7 +1,7 @@
-import { Interface } from './Ineterface';
+import { IDiscount } from './IDiscount';
 
 
-export class VariableDiscount implements Discounts{
+export class VariableDiscount implements IDiscount{
 
 
   
@@ -13,7 +13,7 @@ export class VariableDiscount implements Discounts{
             this._value = value;
         }
     
-        aplly(price : number) : number{
+        apply(price : number) : number{
             return (price - (price * this._value / 100));
         }
     

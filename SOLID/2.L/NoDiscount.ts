@@ -1,7 +1,7 @@
-import { Interface } from './Ineterface';
+import { IDiscount } from './IDiscount';
 
 
-export class NoDiscount implements Discounts {
+export class NoDiscount implements IDiscount {
 
     private _value: number;
 
@@ -9,7 +9,7 @@ export class NoDiscount implements Discounts {
         this._value = value;
     }
 
-    aplly(price : number) : number{
+    apply(price : number) : number{
         return price;
     }
 

@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var FixedDiscount_1 = require("./FixedDiscount");
 var NoDiscount_1 = require("./NoDiscount");
-var variableDiscount_1 = require("./variableDiscount");
+var VariableDiscount_1 = require("./VariableDiscount");
 var Product = /** @class */ (function () {
     function Product(name, price, discount) {
         this._name = name;
@@ -58,9 +58,8 @@ var shoppingBasket = /** @class */ (function () {
     return shoppingBasket;
 }());
 var cart = new shoppingBasket();
-cart.addProduct(new Product('Chair', 25, new FixedDiscount_1.FixedDiscount(10)));
-//cart.addProduct(new Product('Chair', 25, new Discount("fixed", -10)));
-cart.addProduct(new Product('Table', 50, new variableDiscount_1.VariableDiscount(25)));
+cart.addProduct(new Product('Chair', 25, new FixedDiscount_1.FixedDiscount()));
+cart.addProduct(new Product('Table', 50, new VariableDiscount_1.VariableDiscount()));
 cart.addProduct(new Product('Bed', 100, new NoDiscount_1.NoDiscount()));
 var tableElement = document.querySelector('#cart tbody');
 cart.products.forEach(function (product) {
