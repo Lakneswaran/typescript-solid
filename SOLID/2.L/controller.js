@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var FixedDiscount_1 = require("./FixedDiscount");
-var NoDiscount_1 = require("./NoDiscount");
 var VariableDiscount_1 = require("./VariableDiscount");
+var NoDiscount_1 = require("./NoDiscount");
 var Product = /** @class */ (function () {
     function Product(name, price, discount) {
         this._name = name;

@@ -1,6 +1,6 @@
 import { IDiscount } from './IDiscount';
 
-export class VariableDiscount implements IDiscount{
+export class VariableDiscount implements IDiscount {
 
     public _value: number;
 
@@ -18,3 +18,4 @@ export class VariableDiscount implements IDiscount{
 
 
 }
+

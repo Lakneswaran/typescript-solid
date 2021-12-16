@@ -589,11 +589,9 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.VariableDiscount = void 0;
 var VariableDiscount1 = function() {
-    function VariableDiscount() {
-    }
-    VariableDiscount.prototype.constuctor = function(value) {
+    function VariableDiscount(value) {
         this._value = value;
-    };
+    }
     VariableDiscount.prototype.apply = function(price) {
         return price - price * this._value / 100;
     };
