@@ -511,8 +511,11 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.User = void 0;
 var User1 = function() {
-    function User() {
+    function User(passwoord, facebookToken, googleToken) {
         this._password = 'user';
+        this._password = passwoord;
+        this._facebookToken = facebookToken;
+        this._googleToken = googleToken;
     }
     //Interesting detail here: while I did not define a return type or param type, any deviation from the interface will give you an error.
     // Test it out by uncommenting the code below.
@@ -547,23 +550,12 @@ Object.defineProperty(exports, "__esModule", {
 exports.Admin = void 0;
 //admin cannot use google or facebook token
 var Admin1 = function() {
-    function Admin() {
+    function Admin(password) {
         this._password = 'admin';
+        this._password = password;
     }
-    Admin.prototype.checkGoogleLogin = function(token) {
-        return false;
-    };
     Admin.prototype.checkPassword = function(password) {
         return password === this._password;
-    };
-    Admin.prototype.getFacebookLogin = function(token) {
-        return false;
-    };
-    Admin.prototype.setFacebookToken = function() {
-        throw new Error('Function not supported for admins');
-    };
-    Admin.prototype.setGoogleToken = function() {
-        throw new Error('Function not supported for admins');
     };
     Admin.prototype.resetPassword = function() {
         this._password = prompt('What is your new password?');

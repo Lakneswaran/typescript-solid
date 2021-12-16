@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var User_1 = require("./User");
 var Admin_1 = require("./Admin");
+var Google_1 = require("./Google");
 // class GoogleBot implements UserAuth {}
 var passwordElement = document.querySelector('#password');
 var typePasswordElement = document.querySelector('#typePassword');
@@ -9,15 +10,12 @@ var typeGoogleElement = document.querySelector('#typeGoogle');
 var typeFacebookElement = document.querySelector('#typeFacebook');
 var loginAsAdminElement = document.querySelector('#loginAsAdmin');
 var resetPasswordElement = document.querySelector('#resetPassword');
-var guest = new User_1.User;
-var admin = new Admin_1.Admin;
+var guest = new User_1.User("user", "secret_token_fb", "secret_token_google");
+var admin = new Admin_1.Admin("admin");
+var google = new Google_1.Google("secret_token_google");
 document.querySelector('#login-form').addEventListener('submit', function (event) {
     event.preventDefault();
     var user = loginAsAdminElement.checked ? admin : guest;
-    if (!loginAsAdminElement.checked) {
-        user.setGoogleToken('secret_token_google');
-        user.setFacebookToken('secret_token_fb');
-    }
     debugger;
     var auth = false;
     switch (true) {
@@ -25,11 +23,15 @@ document.querySelector('#login-form').addEventListener('submit', function (event
             auth = user.checkPassword(passwordElement.value);
             break;
         case typeGoogleElement.checked:
-            auth = user.checkGoogleLogin('secret_token_google');
+            if (user === guest) {
+                auth = user.checkGoogleLogin('secret_token_google');
+            }
             break;
         case typeFacebookElement.checked:
             debugger;
-            auth = user.getFacebookLogin('secret_token_fb');
+            if (user === guest) {
+                auth = user.getFacebookLogin('secret_token_fb');
+            }
             break;
     }
     if (auth) {

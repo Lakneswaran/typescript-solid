@@ -1,9 +1,11 @@
 import { User } from "./User";
 import { Admin } from "./Admin";
+import { Google } from "./Google";
 
 
 
 // class GoogleBot implements UserAuth {}
+
 
 const passwordElement = <HTMLInputElement>document.querySelector('#password');
 const typePasswordElement = <HTMLInputElement>document.querySelector('#typePassword');
@@ -12,18 +14,17 @@ const typeFacebookElement = <HTMLInputElement>document.querySelector('#typeFaceb
 const loginAsAdminElement = <HTMLInputElement>document.querySelector('#loginAsAdmin');
 const resetPasswordElement = <HTMLAnchorElement>document.querySelector('#resetPassword');
 
-let guest = new User;
-let admin = new Admin;
+let guest = new User("user", "secret_token_fb", "secret_token_google");
+let admin = new Admin("admin");
+let google = new Google("secret_token_google");
+
 
 document.querySelector('#login-form').addEventListener('submit', (event) => {
     event.preventDefault();
 
     let user = loginAsAdminElement.checked ? admin : guest;
 
-    if(!loginAsAdminElement.checked) {
-        user.setGoogleToken('secret_token_google');
-        user.setFacebookToken('secret_token_fb');
-    }
+  
     debugger;
 
     let auth = false;
@@ -32,11 +33,15 @@ document.querySelector('#login-form').addEventListener('submit', (event) => {
             auth = user.checkPassword(passwordElement.value);
             break;
         case typeGoogleElement.checked:
+            if(user===guest){
             auth = user.checkGoogleLogin('secret_token_google');
+            }
             break;
         case typeFacebookElement.checked:
             debugger;
+            if(user===guest){
             auth = user.getFacebookLogin('secret_token_fb');
+            }
             break;
     }
 

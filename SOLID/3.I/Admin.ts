@@ -1,27 +1,16 @@
-import { IAdminUserAuth } from "./IAdminUserAuth";
+import { IPasswoord } from "./IPasswoord";
+
 
 //admin cannot use google or facebook token
-export class Admin implements IAdminUserAuth {
+export class Admin implements IPasswoord {
     private _password : string = 'admin';
 
-    checkGoogleLogin(token: string): boolean {
-        return false;
+    constructor(password: string) {
+        this._password = password;
     }
 
     checkPassword(password: string): boolean {
         return (password === this._password);
-    }
-
-    getFacebookLogin(token: string): boolean {
-        return false;
-    }
-
-    setFacebookToken() {
-        throw new Error('Function not supported for admins');
-    }
-
-    setGoogleToken() {
-        throw new Error('Function not supported for admins');
     }
 
     resetPassword() {

@@ -3,23 +3,12 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.Admin = void 0;
 //admin cannot use google or facebook token
 var Admin = /** @class */ (function () {
-    function Admin() {
+    function Admin(password) {
         this._password = 'admin';
+        this._password = password;
     }
-    Admin.prototype.checkGoogleLogin = function (token) {
-        return false;
-    };
     Admin.prototype.checkPassword = function (password) {
         return (password === this._password);
-    };
-    Admin.prototype.getFacebookLogin = function (token) {
-        return false;
-    };
-    Admin.prototype.setFacebookToken = function () {
-        throw new Error('Function not supported for admins');
-    };
-    Admin.prototype.setGoogleToken = function () {
-        throw new Error('Function not supported for admins');
     };
     Admin.prototype.resetPassword = function () {
         this._password = prompt('What is your new password?');

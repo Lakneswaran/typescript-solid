@@ -2,8 +2,11 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.User = void 0;
 var User = /** @class */ (function () {
-    function User() {
+    function User(passwoord, facebookToken, googleToken) {
         this._password = 'user';
+        this._password = passwoord;
+        this._facebookToken = facebookToken;
+        this._googleToken = googleToken;
     }
     //Interesting detail here: while I did not define a return type or param type, any deviation from the interface will give you an error.
     // Test it out by uncommenting the code below.
