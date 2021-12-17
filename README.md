@@ -3,7 +3,7 @@
 
 # Solid principles
 
-## SRP => ### Single Responsibility Principles
+## SRP => Single Responsibility Principles
 ## OCP => Open Closed Principles
 ## LSP => Liskov substitution Principles
 ## ISP => Interface Segregation Principles
@@ -21,15 +21,15 @@
 - Class closed for modification, open for extension new classes can be added to use for the module, 
   but the module should be untouched.
 
-LSP
+## LSP
 
 - Subtypes ust be substitutable for their base type.
 
-What is Polymorphism :question:
+### What is Polymorphism :question:
 
 - We using one block of code and changing which version of block of code we using depending on the input we giving it.
 
-ISP
+## ISP
 
 - Spilt the interface as much possible for to can be used by the different types of objects :exclamation:
 
@@ -39,7 +39,7 @@ ISP
 
 - Instead of one fat interface many small interface are preferred based on groups of methods, each one serving one         submodule.
 
-DIP
+## DIP
 
 - Depend upon abstractions (Interfaces) not upon concrete classes :exclamation:
 
