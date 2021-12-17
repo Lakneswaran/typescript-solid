@@ -1,4 +1,4 @@
-2091
+2094
 120E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\lib\lib.es2018.d.ts132839503637718322 0
 111E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\class-utils\README.md132839503598985545 0
 76E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\2.L132841213426980064 1
@@ -51,6 +51,9 @@
 85E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\package.json132839456464257211 0
 134E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\regex-not\node_modules\is-extendable\LICENSE132839503592876550 0
 108E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\urix\test\index.js132839503612138712 0
+107E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\component-emitter132839503600840596 1
+127E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\lib\lib.es2015.symbol.d.ts132839503636284731 0
+82E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\README.md132839483706253770 0
 90E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\node_modules\uuid132839456462768296 1
 135E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\mixin-deep\node_modules\is-extendable\LICENSE132839503592627212 0
 164E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\loc\lcl\CHT\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl132839503664695944 0
@@ -117,7 +120,7 @@
 110E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\event-stream\LICENCE132839503592048761 0
 112E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\loc\lcl\RUS132839503689036540 1
 102E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\node_modules\uuid\dist\nil.js132839456461106781 0
-84E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\Oven.js132841437329568133 0
+84E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\Oven.js132841437796119366 0
 112E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\node_modules\uuid\dist\esm-node\sha1.js132839456461505844 0
 111E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\through\test\index.js132839503617847529 0
 124E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\is-descriptor\node_modules\kind-of132839503601109862 1
@@ -318,13 +321,13 @@
 104E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\source-map-url132839503600810662 1
 99E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\dist\index.fb708f7d.js.map132839656676900007 0
 101E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\safe-buffer132839503600880481 1
-90E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\controller.js132841437329965767 0
+90E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\controller.js132841437796198592 0
 113E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\copy-descriptor\LICENSE132839503583266674 0
 90E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\Controller.ts132841436790890459 0
 143E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\websocket-driver\lib\websocket\driver\hybi\message.js132839503618226600 0
 116E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\send\node_modules\depd\lib132839503615285427 1
-81E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\dist132841414699611275 1
-83E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\Gas.js132841437328316077 0
+81E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\dist132841438107275066 1
+83E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\Gas.js132841437795890688 0
 115E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\util-deprecate\browser.js132839503595878729 0
 106E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\batch\History.md132839503613968939 0
 108E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\negotiator\LICENSE132839503595632812 0
@@ -333,7 +336,7 @@
 83E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\Gas.ts132841434750679731 0
 102E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\toidentifier132839503600850561 1
 113E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\assign-symbols\index.js132839503594995979 0
-87E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\index.html132841437251412659 0
+87E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\index.html132841438091300376 0
 83E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\old.js132841437691940556 0
 98E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\to-regex132839503594756621 1
 83E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\old.ts132841437619425646 0
@@ -345,7 +348,12 @@
 125E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\lib\lib.es2016.full.d.ts132839503636845004 0
 99E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\dist\index.042a2892.js132841414699182285 0
 125E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\lib\tsserverlibrary.d.ts132839503654026126 0
-92E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\dist\index.html132841414697803679 0
+117E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\proxy-middleware\.npmignore132839503584747836 0
+99E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\dist\index.d3f2d687.js132841438107105513 0
+103E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\dist\index.d3f2d687.js.map132841438107235181 0
+138E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\loc\lcl\DEU\TypeScriptLanguageService132839503672460670 1
+110E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\union-value\index.js132839503583366406 0
+92E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\4.D\dist\index.html132841438105915912 0
 114E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\repeat-element\README.md132839503597175260 0
 134E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\snapdragon-node\node_modules\define-property132839503594896249 1
 85E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\3.I\Admin.js132841373609041044 0
@@ -562,7 +570,6 @@
 123E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\send\node_modules\ms\package.json132839503586986964 0
 96E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\colors132839503622945827 1
 94E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\mime132839503617209288 1
-107E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\component-emitter132839503600840596 1
 109E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\glob-parent\LICENSE132839503591889192 0
 97E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\connect132839503614477585 1
 105E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\snapdragon-util132839503596257713 1
@@ -635,9 +642,9 @@
 120E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\readable-stream\passthrough.js132839503618256435 0
 108E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\loc\lcl132839503689131541 1
 112E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\is-accessor-descriptor132839503594557155 1
-140E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\serve-index\public\icons\page_white_text_width.png132839503632036270 0
 145E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\snapdragon\node_modules\is-data-descriptor\package.json132839503580548789 0
 104E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\is-binary-path132839503594776600 1
+140E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\serve-index\public\icons\page_white_text_width.png132839503632036270 0
 139E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\source-map-resolve\lib\source-map-resolve-node.js132839503598935673 0
 108E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\is-data-descriptor132839503594547182 1
 109E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\graceful-fs\LICENSE132839503576958814 0
@@ -682,11 +689,11 @@
 138E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\websocket-extensions\lib\websocket_extensions.js132839503615595335 0
 109E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\basic-auth\index.js132839503589714783 0
 100E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\negotiator132839503607267332 1
-103E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\object-assign132839503594796513 1
-164E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\loc\lcl\PTB\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl132839503687411853 0
 138E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\loc\lcl\PLK\TypeScriptLanguageService132839503686667135 1
 116E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\split\test\split.asynct.js132839503617767741 0
 103E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\urix\index.js132839503588667577 0
+164E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\loc\lcl\PTB\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl132839503687411853 0
+103E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\object-assign132839503594796513 1
 103E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\.bin\mime.ps1132839503691055587 0
 101E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\object-copy132839503587844672 1
 111E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\negotiator\HISTORY.md132839503583416281 0
@@ -926,8 +933,6 @@
 127E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\lib\lib.es2019.symbol.d.ts132839503641844043 0
 110E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\micromatch\README.md132839503608065584 0
 110E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\unix-crypt-td-js\src132839503593584658 1
-138E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\loc\lcl\DEU\TypeScriptLanguageService132839503672460670 1
-110E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\union-value\index.js132839503583366406 0
 109E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\union-value\LICENSE132839503588747382 0
 115E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\negotiator\lib\charset.js132839503612178607 0
 112E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\map-visit\package.json132839503576829201 0
@@ -984,8 +989,6 @@
 134E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\loc\lcl\KOR\TypeScriptDebugEngine132839503685590010 1
 128E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\loc\lcl\KOR\TypeScriptTasks132839503686148515 1
 195E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\loc\lcl\KOR\TypeScriptLanguageService\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl132839503686058758 0
-136E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\serve-index\public\icons\page_white_swoosh.png132839503631717130 0
-119E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\send\node_modules\ms\index.js132839503580917794 0
 164E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\loc\lcl\KOR\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl132839503685649844 0
 148E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\loc\lcl\KOR\Targets\ProjectItemsSchema.xaml.lcl132839503680399039 0
 127E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\faye-websocket\lib\faye\websocket\api132839503608005337 1
@@ -1096,7 +1099,6 @@
 128E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\lib\lib.es2015.reflect.d.ts132839503636209811 0
 157E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\class-utils\node_modules\is-descriptor\node_modules\kind-of\LICENSE132839503592477607 0
 118E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\bcryptjs\dist\bcrypt.min.map132839503618226600 0
-127E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\lib\lib.es2015.symbol.d.ts132839503636284731 0
 125E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\is-accessor-descriptor\package.json132839503576998707 0
 146E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\snapdragon\node_modules\is-accessor-descriptor\README.md132839503586538164 0
 120E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\typescript\lib\lib.es2017.d.ts132839503636954716 0
@@ -1358,7 +1360,6 @@
 103E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\duplexer\test132839503591405360 1
 116E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\snapdragon\lib\compiler.js132839503607576482 0
 128E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\serve-index\public\icons\page_edit.png132839503624125576 0
-108E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\accepts\HISTORY.md132839503583429654 0
 116E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\snapdragon\lib\position.js132839503615085959 0
 113E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\snapdragon\lib\utils.js132839503617099538 0
 128E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\http-errors\node_modules\depd\index.js132839503592906463 0
@@ -1430,6 +1431,8 @@
 118E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\expand-brackets\node_modules132839503557537518 1
 140E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\serve-index\public\icons\page_white_powerpoint.png132839503631048910 0
 134E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\serve-index\public\icons\page_white_star.png132839503631607420 0
+136E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\serve-index\public\icons\page_white_swoosh.png132839503631717130 0
+119E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\send\node_modules\ms\index.js132839503580917794 0
 134E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\serve-index\public\icons\page_white_text.png132839503631976425 0
 115E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\event-stream\package.json132839503579267071 0
 135E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\serve-index\public\icons\page_white_width.png132839503632455566 0
@@ -1572,7 +1575,6 @@
 110E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\range-parser\LICENSE132839503596756377 0
 115E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\range-parser\package.json132839503576918918 0
 112E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\range-parser\README.md132839503606534147 0
-117E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\proxy-middleware\.npmignore132839503584747836 0
 118E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\proxy-middleware\.travis.yml132839503608474491 0
 119E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\proxy-middleware\package.json132839503578818274 0
 116E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\proxy-middleware\README.md132839503591779482 0
@@ -2066,6 +2068,7 @@
 135E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\anymatch\node_modules\normalize-path\index.js132839503599404423 0
 139E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\anymatch\node_modules\normalize-path\package.json132839503580867920 0
 136E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\anymatch\node_modules\normalize-path\README.md132839503586767544 0
+108E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\accepts\HISTORY.md132839503583429654 0
 106E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\accepts\index.js132839503589186189 0
 105E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\accepts\LICENSE132839503595769021 0
 103E:\Users\Lakne\Desktop\becode\Week 1\typescript_1\typescript-solid\SOLID\0.S\node_modules\.bin\atob.cmd132839503691065570 0
