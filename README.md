@@ -3,6 +3,12 @@
 
 # Solid principles
 
+## Solid Design Principles
+
+Group of ObjectOriental principles => A developer can use with this principles Readable, Maintainable and write clean code.
+
+
+
 ## SRP => Single Responsibility Principles
 ## OCP => Open Closed Principles
 ## LSP => Liskov substitution Principles
@@ -23,7 +29,7 @@
 
 ## LSP
 
-- Subtypes ust be substitutable for their base type.
+- Subtypes must be substitutable for their base type.
 
 ### What is Polymorphism :question:
 
